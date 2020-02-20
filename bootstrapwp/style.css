@@ -1,0 +1,14 @@
+﻿/*  
+Theme Name: bootstrapwp练手主题 
+Theme URI: http://www.shanhubei.com  //这里填主题介绍的网址，没有就填你的博客网址吧  
+Description: 基于Bootstrap框架构建的自适应Wordpress主题  //这里填主题的简短介绍  
+Version: 0.1  
+Author: Andy  
+Author URI: http://www.shanhubei.com  //作者的网址  
+Tags: Bootstrap自适应demo,Wordpress   //标签，多个用半角逗号隔开  
+*/
+/* @import url('bootstrap/css/bootstrap.min.css');  */
+body { 
+     padding-top: 60px; 
+     padding-bottom: 40px; 
+}
